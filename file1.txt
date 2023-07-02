@@ -1,1 +1,3 @@
-Jane Doe
+Jane Doe 
+123-321-6969
+1010 Binary St
